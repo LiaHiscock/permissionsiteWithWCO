@@ -5,7 +5,7 @@
     "window-controls-overlay"
   ],
   "start_url": "./index.html",
-  "theme_color": "#000000",
+  "theme_color": "#ea0051",
   "icons": [
     {
       "src": "app-icon.png",
